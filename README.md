@@ -100,7 +100,7 @@ f(x)=a+bx+cx^2+dx^3 이라고 둘것이다
 
 여기서 이제 아까 구한 후보해의 원반 면적을 이용해 roulette wheel 방법으로 표현을 하면 아래와 같이 표현될 수 있다.
 
-![image-20200616212811625](C:\Users\장석빈\AppData\Roaming\Typora\typora-user-images\image-20200616212811625.png)
+![roulette wheel 1](https://user-images.githubusercontent.com/62733873/85681495-4d224600-b706-11ea-9801-f41e73f4d1b6.PNG)
 
 후보해 1의 적합도 :64 
 
