@@ -21,7 +21,7 @@
 
 이걸 엑셀 그래프로 표현하면 이런 형태가 나옵니다.
 
-![image-20200616201404693](C:\Users\장석빈\AppData\Roaming\Typora\typora-user-images\image-20200616201404693.png)
+![image](https://user-images.githubusercontent.com/62733873/85681642-73e07c80-b706-11ea-8746-bbf41515b127.png)
 
 여기서 우선 내가 알고 있는 집합은 이렇다
 
