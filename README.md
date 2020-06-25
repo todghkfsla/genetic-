@@ -235,7 +235,7 @@ f(x)=a+bx+cx^2+dx^3 이라고 둘것이다
 
 
 
-![image-20200625151740730](C:\Users\장석빈\AppData\Roaming\Typora\typora-user-images\image-20200625151740730.png)
+![roulette wheel](https://user-images.githubusercontent.com/62733873/85681731-8b1f6a00-b706-11ea-8aff-e6bb3cc0b062.PNG)
 
 후보해 1의 적합도: 68
 
